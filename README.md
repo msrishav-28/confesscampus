@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/confesscampus](https://github.com/yourusername/confesscampus)
+Project Link: [https://github.com/msrishav-28/confesscampus](https://github.com/msrishav-28/confesscampus)
 
 ---
 
